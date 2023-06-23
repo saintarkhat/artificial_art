@@ -3,7 +3,7 @@
 
 The idea revolves around employing reinforcement learning to develop an AI capable of altering style and generated images based on user feedback and preferences.
 
-# Plan
+## Plan
 1. Prepare dataset with metadata
 2. Data preprocessing
 3. Creating a learning environment
@@ -11,12 +11,12 @@ The idea revolves around employing reinforcement learning to develop an AI capab
 5. Testing and optimization
 6. Project implementation
 
-# Dataset
+## Dataset
 
-# Data preprocessing 
+## Data preprocessing 
 
-# Environment
+## Environment
 
-# Agent 
+## Agent 
 
-# Implemintation
+## Implemintation
